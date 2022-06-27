@@ -1,0 +1,9 @@
+.dark {
+  background-color: #222;
+  color: hsl(0, 0%, 50%);
+}
+
+.dark-table {
+  background-color: #222;
+  color: white;
+}
